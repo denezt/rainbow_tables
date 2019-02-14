@@ -1,0 +1,9 @@
+familiar_lastnames.dic	
+french.dic	
+random_tokens-01.dic	
+russian.dic
+spanish.dic
+technical_list.dic
+typical_lastname.dic
+typical_passwords.dic	
+unabridged_list.dic	
